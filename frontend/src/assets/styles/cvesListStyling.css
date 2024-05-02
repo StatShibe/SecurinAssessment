@@ -1,0 +1,17 @@
+.cvelist {
+	text-align: center;
+}
+
+.cveListTable {
+	display: flex;
+	flex-direction: column;
+	background-color: aquamarine;
+}
+
+thead{
+	background-color: silver;
+}
+
+tr{
+	height : 30px;
+}

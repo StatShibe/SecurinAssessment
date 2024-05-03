@@ -29,7 +29,7 @@ const cvesSchema = new Schema({
 		}
 	],
 	metrics : {
-		cvssMetric : [
+		cvssMetricV2 : [
 			{
 				source : {type : String},
 				type : {type : String},

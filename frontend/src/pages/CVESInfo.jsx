@@ -93,8 +93,8 @@ const CVESInfo = () => {
 				</tr>
 			</thead>
 			<tbody>
-				<tr>{/*
-					<td>{data?.configurations[0]?.nodes[0]?.cpeMatch[0]?.criteria}</td>
+				<tr>
+					{/*<td>{data?.configurations[0]?.nodes[0]?.cpeMatch[0]?.criteria}</td>
 					<td>{data?.configurations[0]?.nodes[0]?.cpeMatch[0]?.matchCriteriaId}</td>
 					<td>{data?.configurations[0]?.nodes[0]?.cpeMatch[0]?.vulnerable}</td>*/}
 				</tr>
